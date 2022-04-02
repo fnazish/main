@@ -1,0 +1,14 @@
+        body{background-color:palevioletred;font-family: 'Times New Roman', Times, serif;
+background-image: url(../img/g.jpg) 
+background-repeat: no-repeat;
+background position:right top;
+}
+        h1{
+                background-color: bisque;
+        }
+        body{
+                background-color: aqua;
+                background-image: url('../img/girl.jpg');
+                background-repeat: no-repeat;
+                background-size: cover;
+        }
